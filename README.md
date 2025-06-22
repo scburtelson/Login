@@ -7,7 +7,7 @@
 #include <math.h>
 
     //Piocent Software
-    /*Copyright (C) 2023 Soren R. Stauss - All Rights Reserved
+    /*Copyright (C) 2023 S. Steven Miller - All Rights Reserved
      *You many use, distribute or modify any or all this code under the terms of the fully executed 
      *Piocent software license agreement.
     */ 
@@ -38,7 +38,7 @@ int main()
 
     decltype(a+b) sum = a > b;
 
-    std::cout << "Hey there, Soren! \n \n";
+    std::cout << "Hey there, Steven! \n \n";
     std::cout << "First, what year was the domain registered? \n \n";   //eventually will scrape WHOIS for domain age.
     
     if (2020) {
@@ -49,7 +49,7 @@ int main()
         std::cout <<"The domain age is acceptable, as it has been registered since 1999. \n \n";
 
     }
-        std::cout << "Copyright (C) 2023 Soren R. Stauss - All Rights Reserved";
+        std::cout << "Copyright (C) 2023 S. Steven Miller - All Rights Reserved";
 
     return 0;
 }
