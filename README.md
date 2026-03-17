@@ -6,7 +6,7 @@
 #include <functional>
 #include <math.h>
 
-    //Piocent Software
+    //UMNCyber Software
     /*Copyright (C) 2023 Soren Burtelson-Stauss - All Rights Reserved
      *You many use, distribute or modify any or all this code under the terms of the fully executed 
      *Piocent software license agreement.
